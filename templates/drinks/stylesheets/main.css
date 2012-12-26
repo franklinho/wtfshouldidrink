@@ -1,0 +1,23 @@
+body {
+		font-family: Gill Sans, sans-serif;
+		font-weight: 300;
+		background-color: white;
+}
+
+div#centered { 
+		border: 0;
+		height: 25%; 
+		width: 90%;
+		position: absolute; 
+		top: 35%; 
+		color: #666666; 
+}
+
+div#bottom { 
+		border: 0;
+		height: 15%; 
+		width: 90%;
+		position: absolute; 
+		bottom: 10%; 
+		color: #666666; 
+}
